@@ -1,0 +1,15 @@
+{
+	"name" : "ServerTest",
+	"version" : "0.0.1",
+	"description" : "Testing EIA2",
+	"author" : "Linus Kuenz",
+	"main" : "ServerTest.js",
+	"scripts" : {
+		"start" : "node ServerTest.js"
+	},
+	"engines" : {
+		"node" : "6.11.1"
+	},
+	"dependencies" : {
+	}
+}
